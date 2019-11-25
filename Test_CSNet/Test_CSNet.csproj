@@ -49,6 +49,9 @@
     <Compile Include="Test\CH02\C0203_tcp_echo_server.cs" />
     <Compile Include="Test\CH02\C0204_udp_echo_client.cs" />
     <Compile Include="Test\CH02\C0205_udp_echo_server.cs" />
+    <Compile Include="Test\CH02\C0206_tcp_echo_client_socket.cs" />
+    <Compile Include="Test\CH02\C0207_tcp_echo_server_socket.cs" />
+    <Compile Include="Test\CH02\C0208_udp_echo_client_timeout_socket.cs" />
     <Compile Include="Test\TestObject.cs" />
   </ItemGroup>
   <ItemGroup>
