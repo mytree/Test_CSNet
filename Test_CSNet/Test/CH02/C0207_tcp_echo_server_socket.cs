@@ -3,7 +3,7 @@ using System.Net;                   // IPAddress, IPEndPoint Class
 using System.Net.Sockets;           // Socket, SocketException Class
 
 
-namespace Test_CSNet.Test.CH02 {
+namespace Test_CSNet {
     class C0207_tcp_echo_server_socket : TestObject {
         private const int BUFSIZE = 32;     // 수신 버퍼의 크기
         private const int BACKLOG = 5;      // 연결 큐의 최대 크기

@@ -3,7 +3,7 @@ using System.Text;              // Encoding
 using System.Net;               // EndPoint, IPEndPoint 
 using System.Net.Sockets;       // Socket, SocketOptionName, SocketOptionLevel
 
-namespace Test_CSNet.Test.CH02 {
+namespace Test_CSNet {
     class C0208_udp_echo_client_timeout_socket : TestObject {
         private const int TIMEOUT = 3000;           // 재전송 타임아웃(밀리초 단위)
         private const int MAAXTRIES = 5;            // 최고 재전송 횟수

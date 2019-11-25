@@ -4,7 +4,7 @@ using System.IO;                    // IOException Class
 using System.Net.Sockets;           // Socket, SocketException Class
 using System.Net;                   // IPAddress, IPEndPoint Class
 
-namespace Test_CSNet.Test.CH02 {
+namespace Test_CSNet {
     class C0206_tcp_echo_client_socket : TestObject {
         public override void OnTest(string[] args) {
             if ((args.Length < 2) || (args.Length > 3)) {   // 파라미터의 개수를 확인한다.
