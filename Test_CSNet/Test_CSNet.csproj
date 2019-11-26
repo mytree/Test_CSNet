@@ -67,6 +67,9 @@
     <Compile Include="Test\CH03\C0313_send_udp.cs" />
     <Compile Include="Test\CH03\C0314_recv_udp.cs" />
     <Compile Include="Test\CH04\C0401_tcp_echo_server_timeout.cs" />
+    <Compile Include="Test\CH04\C0402_tcp_nb_echo_client.cs" />
+    <Compile Include="Test\CH04\C0403_tcp_echo_server_select_socket.cs" />
+    <Compile Include="Test\CH04\C0404_thread_example.cs" />
     <Compile Include="Test\TestObject.cs" />
   </ItemGroup>
   <ItemGroup>
