@@ -66,6 +66,7 @@
     <Compile Include="Test\CH03\C0312_recv_tcp.cs" />
     <Compile Include="Test\CH03\C0313_send_udp.cs" />
     <Compile Include="Test\CH03\C0314_recv_udp.cs" />
+    <Compile Include="Test\CH04\C0401_tcp_echo_server_timeout.cs" />
     <Compile Include="Test\TestObject.cs" />
   </ItemGroup>
   <ItemGroup>
