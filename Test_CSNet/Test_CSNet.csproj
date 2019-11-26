@@ -82,6 +82,14 @@
     <Compile Include="Test\CH04\C0414_thread_per_dispatcher.cs" />
     <Compile Include="Test\CH04\C0415_pool_dispatcher.cs" />
     <Compile Include="Test\CH04\C0416_thread_main.cs" />
+    <Compile Include="Test\CH04\C0417_tcp_echo_client_async.cs" />
+    <Compile Include="Test\CH04\C0418_tcp_echo_server_async.cs" />
+    <Compile Include="Test\CH04\C0419_mc_ipaddress.cs" />
+    <Compile Include="Test\CH04\C0420_send_udp_multicast.cs" />
+    <Compile Include="Test\CH04\C0421_recv_udp_multicast.cs" />
+    <Compile Include="Test\CH04\C0422_tcp_client_shutdown.cs" />
+    <Compile Include="Test\CH04\C0423_transcode_client.cs" />
+    <Compile Include="Test\CH04\C0424_transcode_server.cs" />
     <Compile Include="Test\TestObject.cs" />
   </ItemGroup>
   <ItemGroup>
