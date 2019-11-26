@@ -52,6 +52,20 @@
     <Compile Include="Test\CH02\C0206_tcp_echo_client_socket.cs" />
     <Compile Include="Test\CH02\C0207_tcp_echo_server_socket.cs" />
     <Compile Include="Test\CH02\C0208_udp_echo_client_timeout_socket.cs" />
+    <Compile Include="Test\CH03\C0301_item_quote.cs" />
+    <Compile Include="Test\CH03\C0302_framer.cs" />
+    <Compile Include="Test\CH03\C0303_item_quote_encoder.cs" />
+    <Compile Include="Test\CH03\C0304_item_quote_decoder.cs" />
+    <Compile Include="Test\CH03\C0305_item_quote_text_const.cs" />
+    <Compile Include="Test\CH03\C0306_item_quote_encoder_text.cs" />
+    <Compile Include="Test\CH03\C0307_item_quote_decoder_text.cs" />
+    <Compile Include="Test\CH03\C0308_item_quote_bin_const.cs" />
+    <Compile Include="Test\CH03\C0309_item_quote_encoding_bin.cs" />
+    <Compile Include="Test\CH03\C0310_item_quote_decoder_bin.cs" />
+    <Compile Include="Test\CH03\C0311_send_tcp.cs" />
+    <Compile Include="Test\CH03\C0312_recv_tcp.cs" />
+    <Compile Include="Test\CH03\C0313_send_udp.cs" />
+    <Compile Include="Test\CH03\C0314_recv_udp.cs" />
     <Compile Include="Test\TestObject.cs" />
   </ItemGroup>
   <ItemGroup>
