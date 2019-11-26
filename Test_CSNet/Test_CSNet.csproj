@@ -70,6 +70,18 @@
     <Compile Include="Test\CH04\C0402_tcp_nb_echo_client.cs" />
     <Compile Include="Test\CH04\C0403_tcp_echo_server_select_socket.cs" />
     <Compile Include="Test\CH04\C0404_thread_example.cs" />
+    <Compile Include="Test\CH04\C0405_iprotocol.cs" />
+    <Compile Include="Test\CH04\C0406_echo_protocol.cs" />
+    <Compile Include="Test\CH04\C0407_ilogger.cs" />
+    <Compile Include="Test\CH04\C0408_console_logger.cs" />
+    <Compile Include="Test\CH04\C0409_file_logger.cs" />
+    <Compile Include="Test\CH04\C0410_tcp_echo_server_thread.cs" />
+    <Compile Include="Test\CH04\C0411_iprotocol_factory.cs" />
+    <Compile Include="Test\CH04\C0412_echo_protocol_factory.cs" />
+    <Compile Include="Test\CH04\C0413_idispatcher.cs" />
+    <Compile Include="Test\CH04\C0414_thread_per_dispatcher.cs" />
+    <Compile Include="Test\CH04\C0415_pool_dispatcher.cs" />
+    <Compile Include="Test\CH04\C0416_thread_main.cs" />
     <Compile Include="Test\TestObject.cs" />
   </ItemGroup>
   <ItemGroup>
